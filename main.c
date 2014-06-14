@@ -5,6 +5,7 @@ int main() {
 
 // Some local changes
 // More local changes. This time, don't rebase on merging.
+// Third local changes
 
 int newFeature() {
 	doSomethingAwesome();
