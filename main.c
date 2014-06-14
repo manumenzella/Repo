@@ -15,9 +15,4 @@ int secondNewFeature() {
 	return 3.14;
 }
 
-// Hot fix; revised
-
-// Bug Fix!
-// Another new feature!
-
-// NEW NEW NEW
+// ALL THESE LINES WERE DELETED
