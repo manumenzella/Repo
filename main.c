@@ -10,5 +10,7 @@ int newFeature() {
 }
 
 int secondNewFeature() {
+	firstLine();
+	secondLine();
 	return 3.14;
 }
