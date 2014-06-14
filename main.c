@@ -8,3 +8,7 @@ int newFeature() {
 	doSomethingEvenBetter();
 	return 0; // Bug fix!
 }
+
+int secondNewFeature() {
+	return 3.14;
+}
