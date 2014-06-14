@@ -7,3 +7,7 @@ int newFeature() {
 	doSomethingAwesome();
 	doSomethingEvenBetter();
 }
+
+int secondNewFeature() {
+	return 3.14;
+}
