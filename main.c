@@ -6,4 +6,5 @@ int main() {
 int newFeature() {
 	doSomethingAwesome();
 	doSomethingEvenBetter();
+	return 0; // Bug fix!
 }
