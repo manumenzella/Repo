@@ -15,5 +15,7 @@ int secondNewFeature() {
 	return 3.14;
 }
 
+// Hot fix
+
 // Bug Fix!
 // Another new feature!
