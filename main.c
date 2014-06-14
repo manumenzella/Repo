@@ -3,6 +3,8 @@ int main() {
 	return 0;
 }
 
+// Some local changes
+
 int newFeature() {
 	doSomethingAwesome();
 	doSomethingEvenBetter();
